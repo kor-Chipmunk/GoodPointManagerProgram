@@ -1,0 +1,12 @@
+C:\Users\Chipmunk\Documents\Visual Studio 2013\Projects\GoodPointManageProgram\GoodPointManageProgram\bin\Debug\GoodPointManageProgram.exe
+C:\Users\Chipmunk\Documents\Visual Studio 2013\Projects\GoodPointManageProgram\GoodPointManageProgram\bin\Debug\GoodPointManageProgram.pdb
+C:\Users\Chipmunk\Documents\Visual Studio 2013\Projects\GoodPointManageProgram\GoodPointManageProgram\obj\Debug\GoodPointManageProgram.csprojResolveAssemblyReference.cache
+C:\Users\Chipmunk\Documents\Visual Studio 2013\Projects\GoodPointManageProgram\GoodPointManageProgram\obj\Debug\GoodPointManageProgram.frmMain.resources
+C:\Users\Chipmunk\Documents\Visual Studio 2013\Projects\GoodPointManageProgram\GoodPointManageProgram\obj\Debug\GoodPointManageProgram.Properties.Resources.resources
+C:\Users\Chipmunk\Documents\Visual Studio 2013\Projects\GoodPointManageProgram\GoodPointManageProgram\obj\Debug\GoodPointManageProgram.csproj.GenerateResource.Cache
+C:\Users\Chipmunk\Documents\Visual Studio 2013\Projects\GoodPointManageProgram\GoodPointManageProgram\obj\Debug\GoodPointManageProgram.exe
+C:\Users\Chipmunk\Documents\Visual Studio 2013\Projects\GoodPointManageProgram\GoodPointManageProgram\obj\Debug\GoodPointManageProgram.pdb
+C:\Users\Chipmunk\Documents\Visual Studio 2013\Projects\GoodPointManageProgram\GoodPointManageProgram\obj\Debug\GoodPointManageProgram.frmEdit.resources
+C:\Users\Chipmunk\Documents\Visual Studio 2013\Projects\GoodPointManageProgram\GoodPointManageProgram\obj\Debug\GoodPointManageProgram.frmSetting.resources
+C:\Users\Chipmunk\Documents\Visual Studio 2013\Projects\GoodPointManageProgram\GoodPointManageProgram\obj\Debug\GoodPointManageProgram.exe.licenses
+C:\Users\Chipmunk\Documents\Visual Studio 2013\Projects\GoodPointManageProgram\GoodPointManageProgram\obj\Debug\GoodPointManageProgram.csproj.ResolveComReference.cache
